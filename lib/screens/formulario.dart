@@ -63,6 +63,7 @@ class _FormularioPageState extends State<FormularioPage> {
   @override
   Widget build(BuildContext context) {
     var size = MediaQuery.of(context).size;
+    _cardsWidt = (size.width > 412) ? 400 : 200;
     if (menu.length == 0) {
       menu = [
         Pregunta(
