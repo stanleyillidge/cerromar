@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "25982952517",
+    "project_id": "cerromar-demo",
+    "storage_bucket": "cerromar-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25982952517:android:fcb2cdd75857753b5eef2c",
+        "android_client_info": {
+          "package_name": "saeji.dev.cerromar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25982952517-ldcs54qioidegvc8h5g2gt87m6ig7rrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saeji.dev.cerromar",
+            "certificate_hash": "b6a3ee2bb2b6a450f42e032c17efce848b3712fe"
+          }
+        },
+        {
+          "client_id": "25982952517-5s0maf8ddmq7338bah3oc50mo83mq082.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU_lR9LoZLOdkmAazLxiCjm36nD4sw8z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25982952517-5s0maf8ddmq7338bah3oc50mo83mq082.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
